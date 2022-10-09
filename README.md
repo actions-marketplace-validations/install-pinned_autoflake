@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install autoflake from PyPI
-  uses: install-pinned/autoflake@fffbf2f1da044c476283caea01da00483834b3a6  # 1.7.0
+  uses: install-pinned/autoflake@ffffffffffffffffffffffffffffffffffffffff
 ```
 
 ## Alternatives
@@ -23,5 +23,4 @@ This action is a relatively simple wrapper around the fantastic [pip-tools](http
 
 ## More Details
 
-See the [main repository](https://github.com/install-pinned/overview) for details.
-
+See the [@install-pinned README](https://github.com/install-pinned) for details.
