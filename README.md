@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install autoflake from PyPI
-  uses: install-pinned/autoflake@ffffffffffffffffffffffffffffffffffffffff
+  uses: install-pinned/autoflake@0b717d65c264f8c43069768b8bf1c6eb62626da2  # 1.7.0
 ```
 
 ## Alternatives
