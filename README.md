@@ -13,8 +13,8 @@ This action installs a pinned version of **autoflake** and all its dependencies,
 In your GitHub Actions workflow, use this action like so:
 
 ```yaml
-- name: Install autoflake from PyPI
-  uses: install-pinned/autoflake@058924cb02f979c4e93ac473f2d7d3947411cae9  # 1.7.7
+      - name: Install autoflake from PyPI
+        uses: install-pinned/autoflake@058924cb02f979c4e93ac473f2d7d3947411cae9  # 1.7.7
 ```
 
 ## Alternatives
