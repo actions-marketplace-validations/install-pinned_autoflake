@@ -6,8 +6,7 @@
 
 Securely install the latest [autoflake](https://pypi.org/project/autoflake/) release from PyPI.
 
-This action installs a pinned version of **autoflake** and all its dependencies,
-making sure that file hashes match. Pinning your dependencies stops supply chain attacks where an adversary         replaces autoflake or one of its dependencies with malicious code.
+This action installs a pinned version of **autoflake** and all its dependencies,         making sure that file hashes match. Pinning your dependencies stops supply chain attacks where an adversary         replaces autoflake or one of its dependencies with malicious code.
 
 ## Usage
 
