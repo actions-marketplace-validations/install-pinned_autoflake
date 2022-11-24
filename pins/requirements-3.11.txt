@@ -8,7 +8,7 @@ autoflake==1.7.7 \
     --hash=sha256:a9b43d08f8e455824e4f7b3f078399f59ba538ba53872f466c09e55c827773ef \
     --hash=sha256:c8e4fc41aa3eae0f5c94b939e3a3d50923d7a9306786a6cbf4866a077b8f6832
     # via -r pins/requirements.in
-pyflakes==2.5.0 \
-    --hash=sha256:4579f67d887f804e67edb544428f264b7b24f435b263c4614f384135cea553d2 \
-    --hash=sha256:491feb020dca48ccc562a8c0cbe8df07ee13078df59813b83959cbdada312ea3
+pyflakes==3.0.0 \
+    --hash=sha256:12da339341ba8b9071e185d4717bef732fdb4f4400b9f4a1d0d6bbc362bf7760 \
+    --hash=sha256:e38cbaa285564388a9622d7e440445d40c508d8fbf96e0c0f3ef28e47d8ba8a2
     # via autoflake
