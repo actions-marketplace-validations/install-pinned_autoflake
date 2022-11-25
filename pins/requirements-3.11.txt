@@ -4,11 +4,11 @@
 #
 #    pip-compile --allow-unsafe --generate-hashes --output-file=pins/requirements-3.11.txt pins/requirements.in
 #
-autoflake==1.7.8 \
-    --hash=sha256:46373ef69b6714f5064c923bb28bd797c4f8a9497f557d87fc36665c6d956b39 \
-    --hash=sha256:e7e46372dee46fa1c97acf310d99d922b63d369718a270809d7c278d34a194cf
+autoflake==2.0.0 \
+    --hash=sha256:7185b596e70d8970c6d4106c112ef41921e472bd26abf3613db99eca88cc8c2a \
+    --hash=sha256:d58ed4187c6b4f623a942b9a90c43ff84bf6a266f3682f407b42ca52073c9678
     # via -r pins/requirements.in
-pyflakes==2.5.0 \
-    --hash=sha256:4579f67d887f804e67edb544428f264b7b24f435b263c4614f384135cea553d2 \
-    --hash=sha256:491feb020dca48ccc562a8c0cbe8df07ee13078df59813b83959cbdada312ea3
+pyflakes==3.0.1 \
+    --hash=sha256:ec55bf7fe21fff7f1ad2f7da62363d749e2a470500eab1b555334b67aa1ef8cf \
+    --hash=sha256:ec8b276a6b60bd80defed25add7e439881c19e64850afd9b346283d4165fd0fd
     # via autoflake
