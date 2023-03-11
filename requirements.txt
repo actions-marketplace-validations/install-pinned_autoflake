@@ -1,6 +1,6 @@
-autoflake==2.0.1 ; python_version >= "3.7" and python_version < "4.0" \
-    --hash=sha256:143b0843667734af53532c443e950c787316b9b1155b2273558260b44836e8e4 \
-    --hash=sha256:1ce520131b7f396915242fe91e57221f4d42408529bbe3ae93adafed286591e0
+autoflake==2.0.2 ; python_version >= "3.7" and python_version < "4.0" \
+    --hash=sha256:a82d8efdcbbb7129a8a23238c529fb9d9919c562e26bb7963ea6890fbfff7d02 \
+    --hash=sha256:e0164421ff13f805f08a023e249d84200bd00463d213b490906bfefa67e83830
 pyflakes==3.0.1 ; python_version >= "3.7" and python_version < "4.0" \
     --hash=sha256:ec55bf7fe21fff7f1ad2f7da62363d749e2a470500eab1b555334b67aa1ef8cf \
     --hash=sha256:ec8b276a6b60bd80defed25add7e439881c19e64850afd9b346283d4165fd0fd
