@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install autoflake from PyPI
-        uses: install-pinned/autoflake@dfa39c5f136f5b885c175734a719dc6ad1f11fc7  # 2.0.1
+        uses: install-pinned/autoflake@02428e79d51873f4bdb2c9e8ae3135d646912295  # 2.0.2
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
